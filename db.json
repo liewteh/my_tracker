@@ -7,10 +7,28 @@
       "reminder": true
     },
     {
+      "id": 2,
+      "text": "Coding Appointment",
+      "day": "Feb 6th at 2:30pm",
+      "reminder": true
+    },
+    {
       "id": 3,
       "text": "Food Shopping",
       "day": "Feb 5th at 2:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "ysl",
+      "day": "Friday 5:10pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "test ",
+      "day": "test case",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
